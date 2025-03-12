@@ -35,7 +35,7 @@ export function About() {
               <ul className="space-y-4">
                 <li className="flex items-center gap-2">
                   <Hammer className="text-red-500" />
-                  Aberto desde 2006
+                  Aberto desde 2004
                 </li>
                 <li className="flex items-center gap-2">
                   <Users className="text-red-500" />
